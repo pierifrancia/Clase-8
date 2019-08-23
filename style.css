@@ -15,9 +15,9 @@ body {
     margin-right: 500px;
 }
 
-.imagen {
+.fondo-verde-1 {
     padding-top: 120px;
-    height: 150px;
+    height: 250px;
     padding-bottom: 25px;
     background-color: #1abc9c;
     text-align: center;
@@ -49,4 +49,64 @@ p {
 
 img {
     height: 220px;
+    margin: 10px;
+}
+
+.fondo-blanco {
+    padding-top: 50px;
+    padding-bottom: 350px;
+    background-color:white;
+    text-align: center;
+}
+
+#portfolio {
+    display:inline-block;
+    color: #293d52;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.fila1 {
+    display: inline-block;
+    text-align: center;
+}
+
+.fila2 {
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 90px;
+}
+
+#about {
+    display:inline-block;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:white;
+}
+
+.parrafo {
+    width: 245px;
+    display: inline-block;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 13px; 
+    text-align: left;
+}
+
+.fondo-verde-2 {
+    height: 90px;
+    padding-top: 20px;
+    background-color: #1abc9c;
+    text-align: center;
+}
+
+.fondo-verde-3 {
+    height: 250px;
+    background-color: #1abc9c;
+    text-align: center;
 }
